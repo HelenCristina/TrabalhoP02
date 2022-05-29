@@ -1,4 +1,4 @@
-# Trabalho Prático 02 Técnicas de Programação Prof: Wendley S. Silva
+# Trabalho Técnicas de Programação Eng. Computação UFC
 # Aluna: Helen Cristina de Sousa Siqueira Mat: 421667
 
   Questão 2:
